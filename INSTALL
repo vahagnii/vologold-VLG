@@ -1,0 +1,9 @@
+Building Vologold
+
+See doc/readme-qt.rst for instructions on building Vologold-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vologold.
+
+See doc/build-*.txt for instructions on building vologoldd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vologold.

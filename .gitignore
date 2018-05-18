@@ -1,0 +1,41 @@
+src/*.exe
+src/vologold
+src/vologoldd
+src/test_vologold
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dll
+*.exe
+*.lib
+*.patch
+.vologold
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+vologold-qt
+Vologold-Qt.app
+
+# Unit-tests
+Makefile.test
+vologold-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
