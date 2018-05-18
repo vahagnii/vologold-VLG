@@ -1,20 +1,20 @@
 Vologold integration/staging tree
 ================================
 
-http://www.vologold.org
+http://www.vologold.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Vologold Developers
-
+Copyright (c) 2011-2014 LiteCoin Developers
+Copyright (c) 2014-2018 VoloGold Developers
 What is Vologold?
 ----------------
 
-Vologold is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Vologold is a 15 years blockchain based cryptocurrency using scrypt as a proof-of-work algorithm.
  - 3 minute block targets
  - subsidy halves in 740k blocks (~1 years)
  - 6.9 millions total coins
 
-The rest is the same as Bitcoin.
+Main specs of the VoloGolg (VLG) cryptocurrency.
  - 10 coins per block
  - 240 blocks to retarget difficulty
 
